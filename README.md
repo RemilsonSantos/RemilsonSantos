@@ -1,12 +1,16 @@
 ## Ola Eu sou Remii! 👋
 
 
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,c" />
   </a>
 </p>
-
+<a href="www.linkedin.com/in/remilson-santos">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 <!--
 **RemilsonSantos/RemilsonSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
