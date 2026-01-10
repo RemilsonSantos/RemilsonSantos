@@ -1,7 +1,11 @@
 ## Ola Eu sou Remii! 👋
 
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,c" />
+  </a>
+</p>
 
 <!--
 **RemilsonSantos/RemilsonSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
