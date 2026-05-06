@@ -5,6 +5,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,github,git," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,github,git,csharp" />
   </a>
 </p>
