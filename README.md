@@ -7,4 +7,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,mysql,git,github"/>
   </a>
+  <a>
+    <href src = "https://skillicons.dev/icons?i=linkedin " href="www.linkedin.com/in/remilson-santos/" title="ir para o GOOGLE" target="_blank">
+  </a>
 </p>
